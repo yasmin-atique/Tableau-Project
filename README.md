@@ -24,7 +24,8 @@ https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.p
 Os resultados não foram conclusivos.
 Através da figura 1 é possível observar que os anos com maior área destamada são 1988, 1995 e 2004. Em 2004 iniciou-se queda do desmatamento até atingir seu pico
 mais baixo em 2012, a partir do qual iniciou-se tendência de incremento.
-##Figura 1 - Área desmatada da Amazônia por ano
+
+### Figura 1 - Área desmatada da Amazônia por ano
 ![Story 1](https://user-images.githubusercontent.com/101889306/189498343-24ce7d6b-6e24-4c1e-94c8-69dfef646bbd.png)
 
 A Figura 2 apresenta os dados pluviométricos extraidos do INMET, entretanto os mesmos começaram a ser gerados em  2006, portanto, não foi possível avaliar a relação
@@ -32,7 +33,7 @@ dos das variáveis nos anos em que houve maior área desmatada (1988, 1995 e 200
 É possível observar que no ano em que houve maior desmatamento do período avaliado (2006) também foi o ano com menor índice pluviométrico acumulado.
 Entretanto, não é possível observar tendência relativa a área destamada acumulada ou com os fenômenos de La niña e El niño.
 
-## Figura 2 - Desmatamento (km²), pluviometria acumulada (mm) e fenômenos La niña e El niño.
+### Figura 2 - Desmatamento (km²), pluviometria acumulada (mm) e fenômenos La niña e El niño.
 ![Story 1 (1)](https://user-images.githubusercontent.com/101889306/189498811-9841f04c-0d1b-442b-bb62-e72f56ae165b.png)
 
 # Próximos passos
